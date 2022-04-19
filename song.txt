@@ -1,4 +1,4 @@
-This is not about us
+﻿This is not about us
 Это не про нас
 This is not about me
 Это не про меня
@@ -87,3 +87,4 @@ This not about us
 What else could it be?
 Что ещё это может быть?
 It’s bigger than this melody, melody
+It’s bigger than this melody,
